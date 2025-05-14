@@ -10,6 +10,7 @@ import '../App.css'
 
 import Home from '../pages/Home';
 import Movies from '../pages/Movies';
+import MoviesDetails from '../pages/MoviesDetails';
 function NavBar() {
     return (
         <Router>
